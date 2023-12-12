@@ -22,6 +22,6 @@ This project is a simple clone of the Netflix user interface, created to solidif
 - **JavaScript:** Dynamic content manipulation and behavior.
 
 ## Screenshots
-![home](https://prod-files-secure.s3.us-west-2.amazonaws.com/bf32a255-a79c-44a5-9fda-dba10750a2d2/6b436bb1-3474-4021-9526-da6e7ade3c8b/Untitled.png)
+![home](./assets/image1.png)
 
-![tabs](https://prod-files-secure.s3.us-west-2.amazonaws.com/bf32a255-a79c-44a5-9fda-dba10750a2d2/d2df8bb6-2655-4a8a-9f01-d6419f54f2a6/Untitled.png)
+![tabs](./assets/image2.png)
