@@ -143,6 +143,14 @@ img {
 	border-bottom: var(--primary-color) 4px solid;
 }
 
+/* Container */
+.container {
+	max-width: 70%;
+	margin: auto;
+	overflow: hidden;
+	padding: 0 2rem;
+}
+
 /* Buttons */
 .btn {
 	display: inline-block;
