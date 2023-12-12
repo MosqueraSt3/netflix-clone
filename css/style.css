@@ -398,3 +398,9 @@ img {
         text-transform: uppercase;
     }
 }
+
+@media(max-height: 600px) {
+    .showcase-content {
+    margin-top: 3rem;
+    }
+}
